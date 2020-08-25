@@ -2,6 +2,6 @@
 * This is a simple project to display listing of card view with multiple color using tableview. 
 * Using NSLayoutConstraint created anchor of TableView and Cell.
 
-### Preview
+# Preview
 
 <img src="http://hyperlocalnews.s3.amazonaws.com/uploads/202008/1598340968.png">
