@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         
         arrColor = [.fColor, .sColor, .tColor, .foColor, .fiColor]
         setupTableView()
-        print("Hello")
     }
     
     private func setupTableView(){
