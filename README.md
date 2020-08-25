@@ -7,5 +7,5 @@
 <img src="http://hyperlocalnews.s3.amazonaws.com/uploads/202008/1598340968.png">
 
 # Requirements
-* iOS 10.0+
+* iOS 13.0+
 * Swift 5.0+
